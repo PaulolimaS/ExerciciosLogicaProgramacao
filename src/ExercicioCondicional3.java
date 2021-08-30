@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicioCondicional3 {
+public class ExercicioCondicional3 {
 
 	public static void main(String[] args) {
 		
@@ -10,10 +10,10 @@ public class exercicioCondicional3 {
 	int B = sc.nextInt();
 	
 	if (A % B == 0 || B % A == 0) {
-		System.out.println("são multiplos");
+		System.out.println("sï¿½o multiplos");
 	}
 		else {
-			System.out.println("não são multiplos");
+			System.out.println("nï¿½o sï¿½o multiplos");
 		}
 	sc.close();
 	}

@@ -1,5 +1,5 @@
 
-public class estruturaComparativa {
+public class EstruturaComparativa {
 
 	public static void main(String[] args) {
 		

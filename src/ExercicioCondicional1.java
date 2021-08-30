@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exerciciocondicional1 {
+public class ExercicioCondicional1 {
 
 	public static void main(String[] args) {
 		
@@ -9,10 +9,10 @@ public class exerciciocondicional1 {
 		int X = sc.nextInt();
 		
 		if (X >= 0 ) {
-			System.out.println("é positivo");
+			System.out.println("ï¿½ positivo");
 		}
 		else {
-			System.out.println("é negativo");
+			System.out.println("ï¿½ negativo");
 		}
 		sc.close();
 		

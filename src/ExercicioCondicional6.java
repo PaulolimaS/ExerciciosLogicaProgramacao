@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicioCondicional6 {
+public class ExercicioCondicional6 {
 
 	public static void main(String[] args) {
 		

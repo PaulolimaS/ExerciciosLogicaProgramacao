@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicioSequencial3 {
+public class ExercicioSequencial3 {
 
 	public static void main(String[] args) {
 	

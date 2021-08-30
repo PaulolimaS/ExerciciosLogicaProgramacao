@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class curso3 {
+public class Curso3 {
 
 	public static void main(String[] args) {
-		// para ler um texto até a quebra de linha //
-		// digitar e só pular pra proxima quando der enter//
+		// para ler um texto atï¿½ a quebra de linha //
+		// digitar e sï¿½ pular pra proxima quando der enter//
 		
 		Scanner sc = new Scanner(System.in);
 		

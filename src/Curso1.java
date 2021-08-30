@@ -1,6 +1,6 @@
 import java.util.Locale;
 
-public class curso1 {
+public class Curso1 {
 
 	public static void main(String[] args) {
 	Locale.setDefault(Locale.US);

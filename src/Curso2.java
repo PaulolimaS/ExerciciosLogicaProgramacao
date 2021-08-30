@@ -1,5 +1,5 @@
 
-public class curso2 {
+public class Curso2 {
 
 	public static void main(String[] args) {
 		

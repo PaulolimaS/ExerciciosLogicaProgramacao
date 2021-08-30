@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicioCondicional5 {
+public class ExercicioCondicional5 {
 
 	public static void main(String[] args) {
 		

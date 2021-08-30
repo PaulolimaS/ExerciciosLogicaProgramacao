@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class curso6 {
+public class Curso6 {
 
 	public static void main(String[] args) {
 		
@@ -16,7 +16,7 @@ public class curso6 {
 			dia ="segunda";
 			break;
 		case 3:
-			dia ="terça";
+			dia ="terï¿½a";
 			break;
 		case 4:
 			dia ="quarta";

@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class curso5 {
+public class Curso5 {
 
 	public static void main(String[] args) {
 		

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main4 {
+public class Main4 {
 
 	public static void main(String[] args) {
 		
@@ -11,14 +11,14 @@ public class main4 {
 	int C = sc.nextInt();
 	
 	if (A > B && A > C) {
-		System.out.printf("%d é maior %n",A);
+		System.out.printf("%d ï¿½ maior %n",A);
 	}
 	else {
 		if(B > C && B > A) {
 			System.out.printf("%d maior %n",B);
 		}
 		else {
-		 System.out.printf("%d é maior %n",C);
+		 System.out.printf("%d ï¿½ maior %n",C);
 			
 		}
 	}
